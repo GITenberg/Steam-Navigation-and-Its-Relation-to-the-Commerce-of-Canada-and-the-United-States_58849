@@ -1,11 +1,16 @@
 _repo: Steam-Navigation-and-Its-Relation-to-the-Commerce-of-Canada-and-the-United-States_58849
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58849-h/images/cover.jpg
 creator:
   author:
     agent_name: Croil, James
     gutenberg_agent_id: '50186'
     url: http://www.gutenberg.org/2009/agents/50186
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58849#Steam-Navigation-and-Its-Relation-to-the-Commerce-of-Canada-and-the-United-States
 gutenberg_issued: '2019-02-10'
 gutenberg_type: Text
 identifiers:
